@@ -1,4 +1,4 @@
-# Microsoft-DEV277x-Object-Oriented-Programming-in-Java. Here is the Notes from the course
+# Microsoft-DEV277x-Object-Oriented-Programming-in-Java. < The Notes >
 Module 1 | What is an Object
 1. Introduction.  In programming, I need to work with 2 categories data types; primitives and objects. Building complex program =  managing complex & big data  => How do I organize my codes into objects that can interact with one another?
 
